@@ -28,7 +28,7 @@ It configures themes, icons, fonts, terminal, dock, wallpapers, and other system
 
 1. Clone or download this repository:
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/nqoss/UbuntuOneWayCustomizationScript/
     cd <repo-folder>
     ```
 
